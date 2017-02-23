@@ -7,3 +7,4 @@ docker create \
     -v data:/data \
     -v config:/config \
     linuxserver/smokeping
+docker start smokeping
